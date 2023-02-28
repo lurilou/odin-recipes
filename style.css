@@ -1,0 +1,71 @@
+body {
+    font-family: "Courier New", monospace;
+    font-size: 15px;
+    color: #1f3d5b;
+}
+
+.hl {
+    font-family: "Brush Script MT", cursive;
+    font-weight: bold;
+    text-align: center;
+}
+
+.sm {
+    font-size: 18px;
+    color: #ddeeff;
+    background-color: #1f3d5b;
+}
+
+.big {
+    font-size: 35px;
+    
+}
+
+
+.i {
+    font-style: italic;
+    color: #265c72;
+}
+
+.box {
+    background-color: #c6e3ff50;
+    
+}
+.center {
+    text-align: center;
+}
+
+img {
+    width: 800px;
+    height: auto;
+ 
+}
+
+
+
+/*LINKS*/
+/* unvisited link */
+a:link {
+    color: #1f3d5b;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #4385a0;
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: seagreen;
+    text-decoration: none;
+  }
+  
+  /* selected link */
+  a:active {
+    color: #265c72;
+    text-decoration: none;
+  }
+
+/*c6e3ff*/
